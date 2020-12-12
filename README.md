@@ -1,0 +1,1 @@
+# plataform_mda_react
